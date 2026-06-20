@@ -1,0 +1,9 @@
+Linux Security Audit Project
+
+Objective:
+Learn Linux basics and perform a beginner security audit.
+
+Commands completed:
+- whoami
+- hostname
+- uname -a
