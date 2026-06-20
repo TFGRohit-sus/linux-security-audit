@@ -16,8 +16,6 @@ Purpose:
 
 Identified user accounts configured on the system.
 
----
-
 ### 2. Administrator Privilege Verification
 
 Command:
@@ -27,8 +25,6 @@ getent group sudo
 Purpose:
 
 Verified users with elevated (administrator) privileges.
-
----
 
 ### 3. File Permission Management
 
@@ -42,8 +38,6 @@ Purpose:
 
 Restricted access to a sensitive file using the principle of least privilege.
 
----
-
 ### 4. Open Port Analysis
 
 Command:
@@ -53,8 +47,6 @@ ss -tuln
 Purpose:
 
 Inspected listening services to understand the system's attack surface.
-
----
 
 ## Security Recommendations
 
