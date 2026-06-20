@@ -62,3 +62,16 @@ Inspected listening services to understand the system's attack surface.
 - Privilege management
 - File permissions
 - Basic security auditing
+
+## Evidence
+
+Screenshots demonstrating:
+
+- User enumeration
+- Administrator privilege verification
+- File permission modification
+- Open port analysis
+
+Repository URL:
+
+https://github.com/TFGRohit-sus/linux-security-audit
